@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Maria Monteiro 👩‍💻
 
-<!--
-**Marimonbert/Marimonbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer focused on modern mobile architecture, scalable application design and clean code principles.
 
-Here are some ideas to get you started:
+📍 Portugal  
+📧 marimonob@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Since 2019, I have been building Android applications, evolving from Java and XML layouts to modern Android development using Kotlin and Jetpack Compose.
+
+I’m passionate about building well-structured, maintainable applications using solid architectural principles.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Kotlin
+- Java
+
+### Architecture & Patterns
+- MVVM
+- Clean Architecture
+- Dependency Injection (Dagger / Hilt)
+- KSP
+
+### UI
+- Jetpack Compose
+- XML (legacy projects)
+
+### Networking & Data
+- Retrofit
+- Moshi
+- SQLite
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 My-BLE-Application
+Modern Android application built with:
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Hilt (Dependency Injection)
+- KSP (Annotation Processing)
+
+---
+
+### 🔹 FaceDetection
+Android application for real-time face detection and recognition using:
+- TensorFlow Lite
+- ML Kit
+- Kotlin
+- SQLite for local persistence
+
+---
+
+### 🔹 MovieApp
+Compose-based application implementing:
+- MVVM
+- Clean Architecture
+- Retrofit for API integration
+
+---
+
+## 📈 Developer Evolution
+
+2019–2021 → Java, Android fundamentals  
+2022–2023 → Kotlin, MVVM, Architecture refinement  
+2024–Now → Jetpack Compose, Hilt, modern Android stack  
+
+---
+
+✨ Always learning. Always building better software.
